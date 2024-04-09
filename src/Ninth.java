@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Nineth {
+public class Ninth {
     public static void allPermutations(String str, String permutation) {
         if (str.length() == 0) {
             System.out.println(permutation);

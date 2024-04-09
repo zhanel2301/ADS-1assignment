@@ -21,9 +21,9 @@ public class Eighth {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        int k = scanner.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int k = sc.nextInt();
         allSquences(n, k, new int[n], 0);
     }
 }
