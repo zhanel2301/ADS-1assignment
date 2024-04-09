@@ -10,11 +10,13 @@ public class Second {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int[] arr = new int[a];
+        System.out.println("Enter the size of the array:");
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+        System.out.println("Enter the elements of the array:");
         for (int i = 0; i < arr.length; i++)
             arr[i] = sc.nextInt();
-        int res = sumOfArray(arr, a);
-        System.out.println(res);
+        int res = sumOfArray(arr, n);
+        System.out.println("The sum of the first " + n + " elements of the array: " + res);
     }
 }

@@ -22,7 +22,9 @@ public class Eighth {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the first num: ");
         int n = sc.nextInt();
+        System.out.println("Enter the second num: ");
         int k = sc.nextInt();
         allSquences(n, k, new int[n], 0);
     }

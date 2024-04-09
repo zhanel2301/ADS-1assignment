@@ -10,9 +10,10 @@ public class First {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a num: ");
         int n = sc.nextInt();
         int res = sumOfSquares(n);
-        System.out.println(res);
+        System.out.println("The sum of the squares of the first " + n + " positive integers: " + res);
     }
 }
 

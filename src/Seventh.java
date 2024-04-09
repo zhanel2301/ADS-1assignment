@@ -31,6 +31,7 @@ public class Seventh {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a num: ");
         int x = sc.nextInt();
         int[][] matrix = new int[x][x];
         filledSquare(matrix, 0, x - 1, 1);

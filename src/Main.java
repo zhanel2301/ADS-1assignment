@@ -31,7 +31,7 @@ public class Main {
                 Eighth.main(args);
                 break;
             case 9:
-                Nineth.main(args);
+                Ninth.main(args);
                 break;
             case 10:
                 Tenth.main(args);

@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f0900a-c1b1-47e3-a2ab-68e090c40d64" name="Changes" comment="ADS" />
+    <list default="true" id="54f0900a-c1b1-47e3-a2ab-68e090c40d64" name="Changes" comment="ADS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eighth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eighth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fifth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fifth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fourth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fourth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seventh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seventh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sixth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sixth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Third.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,24 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Permutations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/untitled1/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Eighth.executor": "Run",
+    "Application.Fifth.executor": "Run",
+    "Application.First.executor": "Run",
+    "Application.Fourth.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Permutations.executor": "Run",
+    "Application.PowerOfTwo.executor": "Run",
+    "Application.Second.executor": "Run",
+    "Application.Seventh.executor": "Run",
+    "Application.Sixth.executor": "Run",
+    "Application.Third.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/untitled1/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +87,7 @@
       <workItem from="1712558230526" duration="1529000" />
       <workItem from="1712664039617" duration="2639000" />
       <workItem from="1712666720438" duration="1080000" />
-      <workItem from="1712680686020" duration="319000" />
+      <workItem from="1712680686020" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="ADS">
       <option name="closed" value="true" />
@@ -78,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712680995615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ADS">
+      <option name="closed" value="true" />
+      <created>1712681080982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712681080982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
